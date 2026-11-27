@@ -1,0 +1,14 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+*.zip
+*.csv
+waveform-*.svg
+sekyo_history.json
+reports/
+.backups/
+redesign-previews/
